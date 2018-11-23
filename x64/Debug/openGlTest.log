@@ -1,0 +1,7 @@
+﻿  Moc'ing shaderglscene.h...
+  moc_shaderglscene.cpp
+  main.cpp
+  shaderglscene.cpp
+c:\users\klejdi\documents\opengltest\opengltest\shaderglscene.cpp(19): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\klejdi\documents\opengltest\opengltest\shaderglscene.cpp(20): warning C4305: 'argument': truncation from 'double' to 'float'
+LINK : fatal error LNK1168: cannot open debug\\openGlTest.exe for writing
